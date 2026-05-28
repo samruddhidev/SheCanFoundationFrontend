@@ -16,6 +16,7 @@ body{
 
 header{
     height: 35vh;
+    width:100%;
     background-image: url("img1");
     background-size: contain;
     color:black;
