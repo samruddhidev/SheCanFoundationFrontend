@@ -200,7 +200,8 @@ footer{
 }
 @media (max-width: 768px) {
     .flex2 { flex-direction: column; }
-    .img { width: 90%; height: 18rem; }
+    .img { width: 90%; height: 18rem;
+         margin-top:1rem;}
     .touch { font-size: 2rem; }
     .more { font-size: 1.3rem; }
     .overall { flex-direction: column; }
@@ -224,4 +225,5 @@ footer{
     width: 95%;
     padding-left: 0;
 }
+    .img {margin-top:1rem;}
 }
